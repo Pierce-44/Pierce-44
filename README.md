@@ -2,17 +2,27 @@
 <div align="center">
  <img align="center" src="https://firebasestorage.googleapis.com/v0/b/porfolio-ph.appspot.com/o/githubBanner.png?alt=media&token=fd22533b-8141-481c-b32a-856656f79b23" />
 </div>
+<h2>:man_technologist:  About Me :</h2>
 <br>
-<br>
-
-
-<div align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierce-44&show_icons=true&theme=radical&layout=compact&title_color=2ce28d&bg_color=121e2a" />
+<h2>:hammer_and_wrench: Languages and Tools :</h2>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" title="WebPack" alt="WebPack" width="40" height="40"/>&nbsp;
 </div>
 <br>
-<div align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pierce-44&show_icons=true&theme=radical&title_color=2ce28d&bg_color=121e2a" />
+<br>
+<h2>:fire:   My Stats :</h2>
+<div align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pierce-44&show_icons=true&line_height=27&theme=radical&title_color=2ce28d&bg_color=121e2a" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierce-44&show_icons=true&theme=radical&title_color=2ce28d&bg_color=121e2a" />
 </div>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=Pierce-44&color=blueviolet&style=for-the-badge)
 
