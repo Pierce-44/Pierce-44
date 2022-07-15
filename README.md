@@ -1,6 +1,6 @@
 
 <div align="center">
- <img align="center" src="https://firebasestorage.googleapis.com/v0/b/porfolio-ph.appspot.com/o/githubBanner.png?alt=media&token=fd22533b-8141-481c-b32a-856656f79b23" />
+ <img align="center" src="https://firebasestorage.googleapis.com/v0/b/porfolio-ph.appspot.com/o/githubBanner.png?alt=media&token=fd22533b-8141-481c-b32a-856656f79b23"/>
 </div>
 <h2>:man_technologist:  About Me :</h2>
 <br>
