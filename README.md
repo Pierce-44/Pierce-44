@@ -9,6 +9,7 @@ I am a passionate self-taught fort-end developer experienced in Javascript-based
 
 - :memo: I am currently studying and learning Next.js, TypeScript and MongoDB.
 - 🇵🇹 I can speak Portuguese at a higher intermediate level, I am working towards becoming fluent in the language.
+- ⚡ In my free time I enjoy playing chess ♟️
 <br>
 <h2>:hammer_and_wrench: Languages and Tools :</h2>
 <div>
