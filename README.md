@@ -2,6 +2,7 @@
 <div align="center">
  <img align="center" src="https://firebasestorage.googleapis.com/v0/b/porfolio-ph.appspot.com/o/githubBanner.png?alt=media&token=fd22533b-8141-481c-b32a-856656f79b23"/>
 </div>
+<br>
 <h2>:man_technologist:  About Me :</h2>
 I am a passionate self-taught fort-end developer experienced in Javascript-based programming with a strong focus towards React based projects. I am working towards becoming a full stack web developer. Additionally, I have a technical background in Mechanical (🎓 BSc) and Automotive engineering (🎓 MSc).
 <br>
