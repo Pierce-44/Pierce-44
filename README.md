@@ -22,8 +22,8 @@
 <br>
 <h2>:mailbox:   How To Contact Me :</h2>
 
-- 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 by 𝚎𝚖𝚊𝚒𝚕 using piercehahn.coding@gmail.com
-- Or contact me through my Linkdin 
+- You can reach me by email [<a href="mailto:piercehahn.coding@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="gmail" alt="gmail" height="25"/></a>]()
+- Or contact me through my 
 
 <br>
 <br>
