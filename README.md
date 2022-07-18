@@ -8,8 +8,9 @@ I am a passionate self-taught fort-end developer experienced in Javascript-based
 <br>
 
 - :memo: I am currently studying and learning Next.js, TypeScript and MongoDB.
-- 🇵🇹 I can speak Portuguese at a higher intermediate level, I am working towards becoming fluent in the language.
+- 🇵🇹 I can speak Portuguese at a higher intermediate level, and I am working towards becoming fluent in the language.
 - ⚡ In my free time I enjoy playing chess ♟️
+- :open_file_folder: All my porjects are on GitHub feel free to explore and have a look around.
 <br>
 <h2>:hammer_and_wrench: Languages and Tools :</h2>
 <div>
@@ -23,13 +24,10 @@ I am a passionate self-taught fort-end developer experienced in Javascript-based
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" title="WebPack" alt="WebPack" width="35" height="35"/>&nbsp;
 </div>
 <br>
-<br>
 <h2>:mailbox:   How To Contact Me :</h2>
 
 - You can reach me by email [<a href="mailto:piercehahn.coding@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="gmail" alt="gmail" height="25"/></a>]()
 - Or contact me through my [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin" alt="linkedin" height="25"/>](https://www.linkedin.com/)
-
-<br>
 <br>
 <h2>:fire:   My Stats :</h2>
 <div align="left">
