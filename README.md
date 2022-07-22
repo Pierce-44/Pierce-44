@@ -23,6 +23,7 @@ I am a passionate self-taught fort-end developer experienced in Javascript-based
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="35" height="35"/>&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="35" height="35"/>&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" title="WebPack" alt="WebPack" width="35" height="35"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="35" height="35"/>&nbsp;
 </div>
 <br>
 <h2>:mailbox:   How To Contact Me :</h2>
