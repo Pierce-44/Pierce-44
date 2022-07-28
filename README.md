@@ -33,7 +33,7 @@ I am a passionate self-taught fort-end developer experienced in Javascript-based
 <br>
 <h2>:fire:   My Stats :</h2>
 <div align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pierce-44&show_icons=true&line_height=27&theme=radical&title_color=2ce28d&bg_color=121e2a&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pierce-44&show_icons=true&line_height=33&theme=radical&title_color=2ce28d&bg_color=121e2a&hide_border=true" />
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pierce-44&show_icons=true&theme=radical&title_color=2ce28d&bg_color=121e2a&hide_border=true" />
 </div>
 <br>
