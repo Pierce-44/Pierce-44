@@ -4,11 +4,14 @@
 </div>
 <br>
 <h2>:man_technologist:  About Me :</h2>
-I am a passionate self-taught fort-end developer experienced in Javascript-based programming with a strong focus towards React based projects. I am working towards becoming a full stack web developer. Additionally, I have a technical background in Mechanical (🎓 BSc) and Automotive engineering (🎓 MSc).
+I am a passionate fort-end developer experienced in JavaScript and TypeScript-based programming with a strong focus
+towards React/Next.js based projects. Additionally, I have a technical background in Mechanical (🎓 BSc) and Automotive engineering (🎓 MSc).
+Please feel free to explore my GitHub page which
+has all my project repositories, as well as my personal portfolio website
 <br>
 <br>
 
-- :memo: I am currently studying and learning Next.js, TypeScript and MongoDB.
+- :memo: I am currently studying and working on Next.js, TypeScript, TailwindCSS based projects.
 - 🇵🇹 I can speak Portuguese at a higher intermediate level, and I am working towards becoming fully fluent in the language.
 - ⚡ In my free time I enjoy playing chess ♟️
 - 💾 All my projects are on GitHub feel free to explore and have a look around.
