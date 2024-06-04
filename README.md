@@ -5,6 +5,7 @@
 <br>
 <h2>:man_technologist:  About Me :</h2>
 I am a passionate Full-Stack software engineer with core experiences in TypeScript-based programming, specialising in React/Next.js projects. I thrive in both solo and collaborative environments, I have successfully helped lead the development of a new interactive E-edition web version at Pagesuite, utilising Next.js and a TypeScript-based reader SDK. This project, recently released to a major client, highlighting my ability to blend creativity with analytical thinking. I am eager to obtain a challenging position where I can further expand my skills and contribute to high-quality, innovative projects. 
+<br>
 Additionally, I have a technical background in Mechanical (🎓 BSc) and Automotive engineering (🎓 MSc).
 Please feel free to explore my GitHub page which
 has all my project repositories, as well as my personal portfolio website
