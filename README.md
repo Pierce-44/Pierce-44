@@ -39,7 +39,7 @@ has all my project repositories, as well as my personal portfolio website
 <h2>:mailbox:   How To Contact Me :</h2>
 
 - You can reach me by email [<a href="mailto:piercehahn.coding@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="gmail" alt="gmail" height="25"/></a>]()
-- Or contact me through my [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin" alt="linkedin" height="25"/>](https://www.linkedin.com/)
+- Or contact me through my [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin" alt="linkedin" height="25"/>](https://www.linkedin.com/in/pierce-hahn)
 <br>
 <h2>:fire:   My Stats :</h2>
 <div align="left">
