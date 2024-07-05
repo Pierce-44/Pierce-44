@@ -32,7 +32,7 @@ has all my project repositories, as well as my personal portfolio website
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg"  title="DOTNET" alt="DOTNET" width="35" height="35"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"  title="DOTNET" alt="DOTNET" width="35" height="35"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"  title="Docker" alt="Docker" width="35" height="35"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"  title="MongoDB" alt="MongoDB" width="35" height="35"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"  title="MongoDB" alt="MongoDB" width="35" height="35"/>&nbsp;
   <img src="https://storage.googleapis.com/candycode/jotai/jotai-mascot.png" title="jotai" alt="jotai" width="35" height="35"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="35" height="35"/>&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="35" height="35"/>&nbsp;
