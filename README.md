@@ -10,7 +10,7 @@ I am a passionate Full-Stack developer with extensive experience in TypeScript-b
 Additionally, I have a technical background in Mechanical (🎓 BSc) and Automotive engineering (🎓 MSc).
 <br>
 Please feel free to explore my GitHub page which
-has all my project repositories, as well as my personal portfolio website
+has all my personal project repositories, as well as my personal portfolio website
 <br>
 <br>
 
