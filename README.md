@@ -1,6 +1,6 @@
 
 <div align="center">
-  👋 Hello my name is Pierce
+  <h2>👋 Hello my name is Pierce</h2>
 </div>
 <br>
 <h2>:man_technologist:  About Me :</h2>
