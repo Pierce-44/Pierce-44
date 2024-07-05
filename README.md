@@ -1,6 +1,5 @@
 
 <div align="center">
- <img align="center" src="https://firebasestorage.googleapis.com/v0/b/porfolio-ph.appspot.com/o/myPicture.webp?alt=media&token=49c1bc84-6fbf-4041-b93e-4d08855e3c78"/>
 </div>
 <br>
 <h2>:man_technologist:  About Me :</h2>
