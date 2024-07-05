@@ -1,5 +1,6 @@
 
 <div align="center">
+  👋 Hello my name is Pierce
 </div>
 <br>
 <h2>:man_technologist:  About Me :</h2>
