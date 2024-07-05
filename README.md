@@ -4,7 +4,7 @@
 </div>
 <br>
 <h2>:man_technologist:  About Me :</h2>
-I am a passionate Full-Stack software engineer with core experiences in TypeScript-based programming, specialising in React/Next.js projects. I thrive in both solo and collaborative environments, I have successfully helped lead the development of a new interactive E-edition web version at Pagesuite, utilising Next.js and a TypeScript-based reader SDK. This project, recently released to a major client, highlighting my ability to blend creativity with analytical thinking. I am eager to obtain a challenging position where I can further expand my skills and contribute to high-quality, innovative projects. 
+I am a passionate Full-Stack developer with extensive experience in TypeScript-based programming, specialising in React/Next.JS projects. Currently, I am employed at Pagesuite, where we specialise in digital publishing platforms and interactive E-editions across various platforms. My primary focus has been on developing the new interactive E-edition web version, predominantly utilising Next.js as the application container, along with a TypeScript-based reader SDK, and recently we successfully released this new product to one of our major clients. I bring a unique perspective to front-end development, leveraging my background in Mechanical Engineering (MSc First-Class Honours) to approach problems with a blend of creativity and analytical thinking.
 <br>
 <br>
 Additionally, I have a technical background in Mechanical (🎓 BSc) and Automotive engineering (🎓 MSc).
@@ -28,6 +28,11 @@ has all my project repositories, as well as my personal portfolio website
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="35" height="35"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="35" height="35"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="35" height="35"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  title="C#" alt="C#" width="35" height="35"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg"  title="DOTNET" alt="DOTNET" width="35" height="35"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"  title="DOTNET" alt="DOTNET" width="35" height="35"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"  title="Docker" alt="Docker" width="35" height="35"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"  title="MongoDB" alt="MongoDB" width="35" height="35"/>&nbsp;
   <img src="https://storage.googleapis.com/candycode/jotai/jotai-mascot.png" title="jotai" alt="jotai" width="35" height="35"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="35" height="35"/>&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="35" height="35"/>&nbsp;
