@@ -29,7 +29,7 @@ has all my project repositories, as well as my personal portfolio website
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="35" height="35"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="35" height="35"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  title="C#" alt="C#" width="35" height="35"/>&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg"  title="DOTNET" alt="DOTNET" width="35" height="35"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg"  title="DOTNET" alt="DOTNET" width="35" height="35"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"  title="DOTNET" alt="DOTNET" width="35" height="35"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"  title="Docker" alt="Docker" width="35" height="35"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"  title="MongoDB" alt="MongoDB" width="35" height="35"/>&nbsp;
