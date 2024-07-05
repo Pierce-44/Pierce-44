@@ -1,6 +1,6 @@
 
 <div align="center">
- <img align="center" src="https://firebasestorage.googleapis.com/v0/b/porfolio-ph.appspot.com/o/githubBanner.png?alt=media&token=fd22533b-8141-481c-b32a-856656f79b23"/>
+ <img align="center" src="https://firebasestorage.googleapis.com/v0/b/porfolio-ph.appspot.com/o/myPicture.webp?alt=media&token=49c1bc84-6fbf-4041-b93e-4d08855e3c78"/>
 </div>
 <br>
 <h2>:man_technologist:  About Me :</h2>
@@ -14,7 +14,6 @@ has all my project repositories, as well as my personal portfolio website
 <br>
 <br>
 
-- :memo: I am currently studying and working on Next.js, TypeScript, TailwindCSS based projects.
 - 🇵🇹 I can speak Portuguese at a higher intermediate level, and I am working towards becoming fully fluent in the language.
 - ⚡ In my free time I enjoy playing chess ♟️
 - 💾 All my projects are on GitHub feel free to explore and have a look around.
